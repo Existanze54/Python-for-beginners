@@ -25,3 +25,6 @@
 
 - https://stackoverflow.com/questions/20303335/ipython-notebook-plantuml-extension
 - https://webdevkin.ru/posts/raznoe/git-fork
+
+- https://git-scm.com/book/ru/v2
+- https://tproger.ru/translations/beginner-git-cheatsheet/
