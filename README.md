@@ -17,6 +17,14 @@
 
 В ходе обучения студент может в своем репозитории расширять и дополнять конспекты пройденных тем.
 
+## Обновление локального репозитория из главного
+
+Настроить upstream<br/>
+`C:\projects\python-for-beginners>git remote add upstream https://gitlab.sirius-web.org/courses/python-for-beginners.git`
+
+Для обновления<br/>
+`C:\projects\python-for-beginners>git pull upstream master`
+
 ## Полезные ссылки
 
 - [Основы программирования в Python](http://math-info.hse.ru/2018-19/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_Python#.D0.9F.D1.80.D0.B0.D0.B2.D0.B8.D0.BB.D0.B0_.D0.B8.D0.B3.D1.80.D1.8B)
